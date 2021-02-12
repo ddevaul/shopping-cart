@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/shopping-cart/home/static/css/main.5d17f0ce.chunk.css",
-    "main.js": "/shopping-cart/home/static/js/main.2b58cee2.chunk.js",
-    "main.js.map": "/shopping-cart/home/static/js/main.2b58cee2.chunk.js.map",
-    "runtime-main.js": "/shopping-cart/home/static/js/runtime-main.ddac506b.js",
-    "runtime-main.js.map": "/shopping-cart/home/static/js/runtime-main.ddac506b.js.map",
-    "static/js/2.7b1ff32a.chunk.js": "/shopping-cart/home/static/js/2.7b1ff32a.chunk.js",
-    "static/js/2.7b1ff32a.chunk.js.map": "/shopping-cart/home/static/js/2.7b1ff32a.chunk.js.map",
-    "static/js/3.42c0283b.chunk.js": "/shopping-cart/home/static/js/3.42c0283b.chunk.js",
-    "static/js/3.42c0283b.chunk.js.map": "/shopping-cart/home/static/js/3.42c0283b.chunk.js.map",
-    "index.html": "/shopping-cart/home/index.html",
-    "static/css/main.5d17f0ce.chunk.css.map": "/shopping-cart/home/static/css/main.5d17f0ce.chunk.css.map",
-    "static/js/2.7b1ff32a.chunk.js.LICENSE.txt": "/shopping-cart/home/static/js/2.7b1ff32a.chunk.js.LICENSE.txt"
+    "main.css": "/shopping-cart/static/css/main.5d17f0ce.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.f399135c.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.f399135c.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.b3fd2b49.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b3fd2b49.js.map",
+    "static/js/2.fcaf20de.chunk.js": "/shopping-cart/static/js/2.fcaf20de.chunk.js",
+    "static/js/2.fcaf20de.chunk.js.map": "/shopping-cart/static/js/2.fcaf20de.chunk.js.map",
+    "static/js/3.5b1475a0.chunk.js": "/shopping-cart/static/js/3.5b1475a0.chunk.js",
+    "static/js/3.5b1475a0.chunk.js.map": "/shopping-cart/static/js/3.5b1475a0.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.5d17f0ce.chunk.css.map": "/shopping-cart/static/css/main.5d17f0ce.chunk.css.map",
+    "static/js/2.fcaf20de.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.fcaf20de.chunk.js.LICENSE.txt",
+    "static/media/100yearsofsolitude.jpg": "/shopping-cart/static/media/100yearsofsolitude.b03e1f33.jpg",
+    "static/media/Catch22.jpg": "/shopping-cart/static/media/Catch22.d333b4eb.jpg",
+    "static/media/loonshots.jpg": "/shopping-cart/static/media/loonshots.22c882ee.jpg",
+    "static/media/playerpiano.jpg": "/shopping-cart/static/media/playerpiano.ffe3e474.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddac506b.js",
-    "static/js/2.7b1ff32a.chunk.js",
+    "static/js/runtime-main.b3fd2b49.js",
+    "static/js/2.fcaf20de.chunk.js",
     "static/css/main.5d17f0ce.chunk.css",
-    "static/js/main.2b58cee2.chunk.js"
+    "static/js/main.f399135c.chunk.js"
   ]
 }
