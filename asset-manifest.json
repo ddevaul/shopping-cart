@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/shopping-cart/static/css/main.5d17f0ce.chunk.css",
-    "main.js": "/shopping-cart/static/js/main.f399135c.chunk.js",
-    "main.js.map": "/shopping-cart/static/js/main.f399135c.chunk.js.map",
+    "main.js": "/shopping-cart/static/js/main.207635e6.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.207635e6.chunk.js.map",
     "runtime-main.js": "/shopping-cart/static/js/runtime-main.b3fd2b49.js",
     "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b3fd2b49.js.map",
-    "static/js/2.fcaf20de.chunk.js": "/shopping-cart/static/js/2.fcaf20de.chunk.js",
-    "static/js/2.fcaf20de.chunk.js.map": "/shopping-cart/static/js/2.fcaf20de.chunk.js.map",
+    "static/js/2.b4c02043.chunk.js": "/shopping-cart/static/js/2.b4c02043.chunk.js",
+    "static/js/2.b4c02043.chunk.js.map": "/shopping-cart/static/js/2.b4c02043.chunk.js.map",
     "static/js/3.5b1475a0.chunk.js": "/shopping-cart/static/js/3.5b1475a0.chunk.js",
     "static/js/3.5b1475a0.chunk.js.map": "/shopping-cart/static/js/3.5b1475a0.chunk.js.map",
     "index.html": "/shopping-cart/index.html",
     "static/css/main.5d17f0ce.chunk.css.map": "/shopping-cart/static/css/main.5d17f0ce.chunk.css.map",
-    "static/js/2.fcaf20de.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.fcaf20de.chunk.js.LICENSE.txt",
+    "static/js/2.b4c02043.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.b4c02043.chunk.js.LICENSE.txt",
     "static/media/100yearsofsolitude.jpg": "/shopping-cart/static/media/100yearsofsolitude.b03e1f33.jpg",
     "static/media/Catch22.jpg": "/shopping-cart/static/media/Catch22.d333b4eb.jpg",
     "static/media/loonshots.jpg": "/shopping-cart/static/media/loonshots.22c882ee.jpg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b3fd2b49.js",
-    "static/js/2.fcaf20de.chunk.js",
+    "static/js/2.b4c02043.chunk.js",
     "static/css/main.5d17f0ce.chunk.css",
-    "static/js/main.f399135c.chunk.js"
+    "static/js/main.207635e6.chunk.js"
   ]
 }
