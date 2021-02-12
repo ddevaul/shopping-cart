@@ -46,9 +46,9 @@ function App() {
 
       <Nav size={size}></Nav>
       <Switch>
-        <Route exact path="/" render={() => <HomePage addItemToCart={addItem} data={data}></HomePage>}></Route>
-        <Route exact path="/cart" render={() => <ShoppingCart items={items} removeItem={removeItem}></ShoppingCart>}></Route>
-        <Route exact path="/contact" component={Contact}></Route>
+        <Route exact path="/shopping-cart/home" render={() => <HomePage addItemToCart={addItem} data={data}></HomePage>}></Route>
+        <Route exact path="/shopping-cart/cart" render={() => <ShoppingCart items={items} removeItem={removeItem}></ShoppingCart>}></Route>
+        <Route exact path="/shopping-cart/contact" component={Contact}></Route>
         
       </Switch>
     </BrowserRouter>
