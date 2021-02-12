@@ -1,7 +1,7 @@
 {
   "name": "shopping-cart",
   "version": "0.1.0",
-  "homepage": "http://ddevaul.github.io/shopping-cart/home",
+  "homepage": "http://ddevaul.github.io/shopping-cart/",
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
