@@ -1,9 +1,5 @@
-
-
 export function Contact() {
-
-
   return (
-    <div>contact</div>
+    <div className="contact-container">ddevaul@princeton.edu</div>
   );
 }
