@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
 import "./style.css"
 import ShoppingCart from '@material-ui/icons/ShoppingCart';
+
+
 export function Nav({size}) {
 
   return (
@@ -15,6 +17,7 @@ export function Nav({size}) {
         <Link to="/contact" style={{textDecoration: 'none'}}>
           <li className="nav-list">Contact</li>
         </Link>
+        {/* shopping cart icon also is link to cart */}
         <Link to="/cart" style={{textDecoration: 'none'}}>
           <div className="shopping-cart-icon nav-list">{size}<ShoppingCart></ShoppingCart></div>
         </Link> 

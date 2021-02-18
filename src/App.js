@@ -9,9 +9,9 @@ import { data } from "./data/data.js";
 
 function App() {
   let [items, setItems] = useState(new Map());
-
+  // number of items for cart icon
   let [size, setSize] = useState(0);
-
+  // counts items for size
   const addUp = (map) => {
     let count = 0;
     map.forEach((item) => {

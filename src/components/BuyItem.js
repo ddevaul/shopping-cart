@@ -1,10 +1,9 @@
-
 import "./style.css"
 
-
-
 export function BuyItem({ addItem, item }) { 
+  // needed to import images
   const images = require.context("../images", true);
+  // item.image can be found in the /data/data.json file
   let img = images(item.image).default;
   return (
     <div className="buy-item">

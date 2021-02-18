@@ -1,5 +1,7 @@
 export function CartItem({ item, quantity,removeItem }) {
+  // needed to import images
   const images = require.context("../images", true);
+  // item.image can be found in the /data/data.json file
   let img = images(item.image).default;
   return (
     <div className="cart-item">{item.name}
