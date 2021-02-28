@@ -1,3 +1,9 @@
+# Shopping Cart
+## Live Demo
+https://ddevaul.github.io/shopping-cart/
+## Description
+This is a sample shopping website. It demonstrates my ability to work with functional components and hooks in React. It also demonstrates my ability to work with routers in React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
